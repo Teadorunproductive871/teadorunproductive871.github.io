@@ -4,4 +4,4 @@
 
 | General | Writing | Art |
 | :---: | :---: | :---: | 
-| [About](/about/) | [Writing Samples](/writing/) | C |
+| [About](/pages/about/) | [Writing Samples](/pages/writing/) | C |
