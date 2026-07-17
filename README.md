@@ -2,4 +2,4 @@
 
 ## Pages
 
-[About] http://jyim-w.github.io/about/
+[About](http://jyim-w.github.io/about/)
